@@ -13,7 +13,7 @@ namespace IconizedTabs_XF
         {
             InitializeComponent();
 
-            MainPage = new IconizedTabs_XF.MainPage();
+            MainPage = new IconizedTabs_XF.MyTabbedPage();
         }
 
         protected override void OnStart()
